@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use SDAF, please cite the published framework using the citation below."
+title: "Sustainable Digital Architecture Framework (SDAF)"
+authors:
+  - family-names: "du Toit"
+    given-names: "Raymond Hugo"
+version: "1.0"
+doi: "10.5281/zenodo.22899663"
+date-released: 2026-09-22
+license: CC-BY-4.0
+abstract: >-
+  The Sustainable Digital Architecture Framework (SDAF) is an open,
+  structured methodology for integrating sustainability into the design,
+  evaluation, governance and assurance of digital systems. It establishes
+  a five-phase assessment lifecycle and requirements for measurement,
+  evidence quality, uncertainty, traceability, decision-making, lifecycle
+  impacts, circularity, governance, enterprise adoption and ecosystem
+  interoperability.
+keywords:
+  - "Sustainable Digital Architecture Framework"
+  - "SDAF"
+  - "digital sustainability"
+  - "sustainable IT"
+  - "enterprise architecture"
+  - "lifecycle assessment"
+  - "circular economy"
+  - "evidence-based decision-making"
+  - "architecture governance"
+  - "sustainability assurance"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22899663"
+    description: "Version 1.0 DOI"
+  - type: doi
+    value: "10.5281/zenodo.22899662"
+    description: "All-versions DOI"
+preferred-citation:
+  type: report
+  title: "Sustainable Digital Architecture Framework (SDAF)"
+  authors:
+    - family-names: "du Toit"
+      given-names: "Raymond Hugo"
+  year: 2026
+  month: 9
+  version: "1.0"
+  doi: "10.5281/zenodo.22899663"
+  publisher:
+    name: "Zenodo"
