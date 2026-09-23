@@ -91,6 +91,32 @@ You may copy, redistribute and adapt the licensed material, including for commer
 
 References to or material derived from external standards, legislation, certification schemes, datasets, trademarks and other third-party sources remain subject to the rights and terms of their respective owners. See the framework's Copyright and Licence section and [`LICENSE.md`](LICENSE.md) for details.
 
+## Supporting materials
+
+The following materials provide different entry points into SDAF v1.0:
+
+- [One-Page Overview](collateral/SDAF%20One-Page%20Overview%20-%20v1.0.pdf) — a concise introduction to SDAF and its principal components
+- [Executive Summary](collateral/SDAF%20-%20Executive%20Summary%20v1.0.pdf) — the purpose, audience, application and organizational value of SDAF
+- [Reader’s Guide](collateral/SDAF%20-%20Reader%E2%80%99s%20Guide%20-%20v1.0.pdf) — navigation pathways for different roles and interests
+- [Quick Start Guide](collateral/SDAF%20Quick%20Start%20Guide%20-%20v1.0.pdf) — practical guidance for conducting a first SDAF assessment
+- [Introducing SDAF v1.0](collateral/Introducing%20SDAF%20v1.0.pdf) — a visual briefing on the framework
+- [SDAF Diagram Library](diagrams/Sustainable%20Digital%20Architecture%20Framework%20-%20diagrams.pdf) — the principal SDAF diagrams in one reference set
+
+## Complete framework
+
+The complete normative framework is maintained as a permanent, citable publication:
+
+- [SDAF v1.0](https://doi.org/10.5281/zenodo.22899663)
+- [All versions of SDAF](https://doi.org/10.5281/zenodo.22899662)
+
+## Review and contribute
+
+SDAF is open for implementation, critical review and evidence-based improvement.
+
+- [Contribution guidance](CONTRIBUTING.md)
+- [Open an issue](../../issues)
+- [Join the discussion](../../discussions)
+
 ## Conformance claims
 
 Permission to reuse or adapt SDAF does not by itself establish conformity with SDAF.
