@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: General questions and discussion
+    url: https://github.com/Raymond-du-Toit/SDAF/discussions
+    about: Use Discussions for open-ended questions, introductions, exploratory ideas and general implementation conversation.
+
+  - name: Published SDAF Version 1.0
+    url: https://doi.org/10.5281/zenodo.22899663
+    about: Access the canonical, fixed and citable Version 1.0 framework on Zenodo.
+
+  - name: Contribution guidance
+    url: https://github.com/Raymond-du-Toit/SDAF/blob/main/CONTRIBUTING.md
+    about: Review the contribution and evidence requirements before opening an issue.
